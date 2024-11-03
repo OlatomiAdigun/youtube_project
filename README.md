@@ -1,4 +1,4 @@
-# Data Portfolio: Excel to Power BI 
+# Data Portfolio: Excel to SQL Server to Power BI 
 
 
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
